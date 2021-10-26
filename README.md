@@ -1,1 +1,1 @@
-# data-sceince-xplr
+# Data Science Exploration
